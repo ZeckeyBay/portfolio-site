@@ -1,3 +1,7 @@
+## I will try to make a portfolio site with the knowledge I own atm.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
